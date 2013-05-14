@@ -1,4 +1,4 @@
-EESchema Schematic File Version 2  date 5/14/2013 8:31:32 AM
+EESchema Schematic File Version 2  date 5/14/2013 9:19:32 AM
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -328,10 +328,10 @@ $EndComp
 Wire Wire Line
 	8100 4650 8100 4750
 $Comp
-L SWITCH_INV SW?
+L SWITCH_INV SW1
 U 1 1 51922CEC
 P 5900 5050
-F 0 "SW?" H 5700 5200 50  0000 C CNN
+F 0 "SW1" H 5700 5200 50  0000 C CNN
 F 1 "SWITCH_INV" H 5750 4900 50  0000 C CNN
 F 2 "~" H 5900 5050 60  0000 C CNN
 F 3 "~" H 5900 5050 60  0000 C CNN

@@ -2,11 +2,11 @@
 
   (general
     (links 25)
-    (no_connects 1)
-    (area 50.324999 44.524999 78.175001 59.075001)
+    (no_connects 0)
+    (area 50.170999 43.971 78.175001 60.629)
     (thickness 1.6)
     (drawings 11)
-    (tracks 54)
+    (tracks 57)
     (zones 0)
     (modules 15)
     (nets 10)
@@ -525,6 +525,9 @@
   (gr_circle (center 58.6 53) (end 58.6 53.1) (layer F.SilkS) (width 0.2))
   (gr_circle (center 66.6 50.7) (end 66.6 50.8) (layer F.SilkS) (width 0.2))
 
+  (segment (start 64.538 53) (end 64.538 54.842) (width 0.254) (layer F.Cu) (net 1))
+  (via (at 64.516 54.864) (size 0.6858) (drill 0.3302) (layers F.Cu B.Cu) (net 1))
+  (segment (start 64.538 54.842) (end 64.516 54.864) (width 0.254) (layer F.Cu) (net 1) (tstamp 51A7705E))
   (segment (start 65.4 51.8) (end 67.4 51.8) (width 0.254) (layer F.Cu) (net 1))
   (segment (start 65.4 51.8) (end 65.4 52.138) (width 0.254) (layer F.Cu) (net 1) (tstamp 5198F280))
   (segment (start 65.4 52.138) (end 64.538 53) (width 0.254) (layer F.Cu) (net 1) (tstamp 5198F24E))

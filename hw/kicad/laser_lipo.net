@@ -1,6 +1,6 @@
 (export (version D)
   (design
-    (source "C:/Documents and Settings/npendlet/Desktop/temp/laser_lipo/hw/kicad/laser_lipo.sch")
+    (source laser_lipo.sch)
     (date "5/29/2013 11:34:52 AM")
     (tool "eeschema (2013-03-04 BZR 3984)-stable"))
   (components
